@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nam Blue Shop</title>
+	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thinhnguyen-van.github.io/thinh-demo</link>
+	<description>Hello SungTia</description>
+	<lastBuildDate>Tue, 01 Jun 2021 06:59:46 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Nguyễn van thịnh</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/2021/06/01/nguyen-van-thinh/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/2021/06/01/nguyen-van-thinh/#respond</comments>
+		
+		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
+		<pubDate>Tue, 01 Jun 2021 06:59:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?p=210</guid>
+
+					<description><![CDATA[wdfklfknkl fnqlekfklqejfklejfleakfkadf]]></description>
+										<content:encoded><![CDATA[
+<p>wdfklfknkl fnqlekfklqejfklejfleakfkadf</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/2021/06/01/nguyen-van-thinh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>bài viết</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/2021/05/25/bai-viet/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/2021/05/25/bai-viet/#respond</comments>
+		
+		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 07:17:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?p=184</guid>
+
+					<description><![CDATA[aakfkla;falf,a&#8217;v,ad;,va.ca.sa sádas ádasdas]]></description>
+										<content:encoded><![CDATA[
+<p>aakfkla;falf,a&#8217;v,ad;,va.ca.sa </p>
+
+
+
+<p>sádas</p>
+
+
+
+<p>ádasdas</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/2021/05/25/bai-viet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
