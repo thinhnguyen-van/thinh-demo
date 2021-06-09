@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Thinh Blue Shop	</title>
+	Bình luận cho Nam Blue Shop	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thinhnguyen-van.github.io/thinh-demo</link>
 	<description>Hello SungTia</description>
-	<lastBuildDate>Wed, 09 Jun 2021 15:30:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Jun 2021 03:49:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

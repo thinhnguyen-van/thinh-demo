@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>ThinhNguyen &#8211; Thinh Blue Shop</title>
+	<title>ThinhNguyen &#8211; Nam Blue Shop</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/thinhnguyen/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thinhnguyen-van.github.io/thinh-demo</link>
 	<description>Hello SungTia</description>
-	<lastBuildDate>Wed, 09 Jun 2021 14:46:09 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Jun 2021 06:59:46 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>Thông tin về các sản phầm của Shop</title>
+		<title>Nguyễn van thịnh</title>
 		<link>https://thinhnguyen-van.github.io/thinh-demo/2021/06/01/nguyen-van-thinh/</link>
 					<comments>https://thinhnguyen-van.github.io/thinh-demo/2021/06/01/nguyen-van-thinh/#respond</comments>
 		
@@ -40,7 +40,7 @@
 		
 			</item>
 		<item>
-		<title>Vấn đề thường gặp</title>
+		<title>bài viết</title>
 		<link>https://thinhnguyen-van.github.io/thinh-demo/2021/05/25/bai-viet/</link>
 					<comments>https://thinhnguyen-van.github.io/thinh-demo/2021/05/25/bai-viet/#respond</comments>
 		
