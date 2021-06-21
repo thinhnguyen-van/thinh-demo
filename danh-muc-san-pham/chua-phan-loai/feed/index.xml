@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chưa phân loại &#8211; Thinh Blue Shop</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thinhnguyen-van.github.io/thinh-demo</link>
+	<description>Hello SungTia</description>
+	<lastBuildDate>Mon, 21 Jun 2021 08:37:51 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>QD03 – Quần Jogger Dù tím</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sản%20phẩm/qd03-quan-jogger-du-tim/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sản%20phẩm/qd03-quan-jogger-du-tim/#respond</comments>
+		
+		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 08:36:16 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=413</guid>
+
+					<description><![CDATA[* Vui lòng chọn SIZE &#38; MÀU SẮC]]></description>
+										<content:encoded><![CDATA[<p>* Vui lòng chọn SIZE &amp; MÀU SẮC</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sản%20phẩm/qd03-quan-jogger-du-tim/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quần Jogger Thun Nữ – QT037</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sản%20phẩm/quan-jogger-thun-nu-qt037/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sản%20phẩm/quan-jogger-thun-nu-qt037/#respond</comments>
+		
+		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 08:26:14 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=404</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sản%20phẩm/quan-jogger-thun-nu-qt037/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
