@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thinhnguyen-van.github.io/thinh-demo</link>
 	<description>Hello SungTia</description>
-	<lastBuildDate>Mon, 21 Jun 2021 09:05:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jul 2021 02:39:54 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,220 +20,174 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>HD65 – Phản Quang Bangouluo</title>
-		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd65-phan-quang-bangouluo/</link>
-					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd65-phan-quang-bangouluo/#respond</comments>
+		<title>HD64 – Phản Quang Unicorn</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd64-phan-quang-unicorn/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd64-phan-quang-unicorn/#respond</comments>
 		
 		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
-		<pubDate>Mon, 21 Jun 2021 09:05:25 +0000</pubDate>
-				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=445</guid>
-
-					<description><![CDATA[<span class="size-mausac">* Vui lòng chọn SIZE &#38; MÀU SẮC</span>
-
-<form class="variations_form cart" style="box-sizing: border-box; letter-spacing: -0.2px; margin-bottom: 1.3em; color: #000000; font-family: 'Roboto Condensed'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" action="https://bumshop.com.vn/sp/hd65-phan-quang-bangouluo/" enctype="multipart/form-data" method="post" data-product_id="37353" data-product_variations="[{&#34;attributes&#34;:{&#34;attribute_size&#34;:&#34;L&#34;,&#34;attribute_mau&#34;:&#34;\u0110EN&#34;},&#34;availability_html&#34;:&#34;&#60;p class=\&#34;stock in-stock\&#34;&#62;c\u00f2n 9 h\u00e0ng&#60;\/p&#62;\n&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;&#34;,&#34;width&#34;:&#34;&#34;,&#34;height&#34;:&#34;&#34;},&#34;dimensions_html&#34;:&#34;N\/A&#34;,&#34;display_price&#34;:220000,&#34;display_regular_price&#34;:220000,&#34;image&#34;:{&#34;title&#34;:&#34;hd65-ao-hoodie-phan-quang-dougulong (10)&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&#34;,&#34;sizes&#34;:&#34;(max-width: 700px) 100vw, 700px&#34;,&#34;full_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;thumb_src_w&#34;:800,&#34;thumb_src_h&#34;:800,&#34;src_w&#34;:700,&#34;src_h&#34;:700},&#34;image_id&#34;:37504,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:9,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#34;,&#34;sku&#34;:&#34;HD65-L-D&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:37354,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;0.490&#34;,&#34;weight_html&#34;:&#34;0.490 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_size&#34;:&#34;L&#34;,&#34;attribute_mau&#34;:&#34;TR\u1eaeNG&#34;},&#34;availability_html&#34;:&#34;&#60;p class=\&#34;stock in-stock\&#34;&#62;c\u00f2n 2 h\u00e0ng&#60;\/p&#62;\n&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;&#34;,&#34;width&#34;:&#34;&#34;,&#34;height&#34;:&#34;&#34;},&#34;dimensions_html&#34;:&#34;N\/A&#34;,&#34;display_price&#34;:220000,&#34;display_regular_price&#34;:220000,&#34;image&#34;:{&#34;title&#34;:&#34;hd65-ao-hoodie-phan-quang-dougulong (10)&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&#34;,&#34;sizes&#34;:&#34;(max-width: 700px) 100vw, 700px&#34;,&#34;full_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;thumb_src_w&#34;:800,&#34;thumb_src_h&#34;:800,&#34;src_w&#34;:700,&#34;src_h&#34;:700},&#34;image_id&#34;:37504,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:2,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#34;,&#34;sku&#34;:&#34;HD65-L-T&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:37355,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;0.490&#34;,&#34;weight_html&#34;:&#34;0.490 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_size&#34;:&#34;L&#34;,&#34;attribute_mau&#34;:&#34;XANH \u0110\u00c1&#34;},&#34;availability_html&#34;:&#34;&#60;p class=\&#34;stock out-of-stock\&#34;&#62;H\u1ebft h\u00e0ng&#60;\/p&#62;\n&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;&#34;,&#34;width&#34;:&#34;&#34;,&#34;height&#34;:&#34;&#34;},&#34;dimensions_html&#34;:&#34;N\/A&#34;,&#34;display_price&#34;:220000,&#34;display_regular_price&#34;:220000,&#34;image&#34;:{&#34;title&#34;:&#34;hd65-ao-hoodie-phan-quang-dougulong (10)&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&#34;,&#34;sizes&#34;:&#34;(max-width: 700px) 100vw, 700px&#34;,&#34;full_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;thumb_src_w&#34;:800,&#34;thumb_src_h&#34;:800,&#34;src_w&#34;:700,&#34;src_h&#34;:700},&#34;image_id&#34;:37504,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:false,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#34;,&#34;sku&#34;:&#34;HD65-L-X&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:37356,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;0.490&#34;,&#34;weight_html&#34;:&#34;0.490 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_size&#34;:&#34;XL&#34;,&#34;attribute_mau&#34;:&#34;\u0110EN&#34;},&#34;availability_html&#34;:&#34;&#60;p class=\&#34;stock out-of-stock\&#34;&#62;H\u1ebft h\u00e0ng&#60;\/p&#62;\n&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;&#34;,&#34;width&#34;:&#34;&#34;,&#34;height&#34;:&#34;&#34;},&#34;dimensions_html&#34;:&#34;N\/A&#34;,&#34;display_price&#34;:220000,&#34;display_regular_price&#34;:220000,&#34;image&#34;:{&#34;title&#34;:&#34;hd65-ao-hoodie-phan-quang-dougulong (10)&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&#34;,&#34;sizes&#34;:&#34;(max-width: 700px) 100vw, 700px&#34;,&#34;full_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;thumb_src_w&#34;:800,&#34;thumb_src_h&#34;:800,&#34;src_w&#34;:700,&#34;src_h&#34;:700},&#34;image_id&#34;:37504,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:false,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#34;,&#34;sku&#34;:&#34;HD65-X-D&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:37357,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;0.490&#34;,&#34;weight_html&#34;:&#34;0.490 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_size&#34;:&#34;XL&#34;,&#34;attribute_mau&#34;:&#34;TR\u1eaeNG&#34;},&#34;availability_html&#34;:&#34;&#60;p class=\&#34;stock out-of-stock\&#34;&#62;H\u1ebft h\u00e0ng&#60;\/p&#62;\n&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;&#34;,&#34;width&#34;:&#34;&#34;,&#34;height&#34;:&#34;&#34;},&#34;dimensions_html&#34;:&#34;N\/A&#34;,&#34;display_price&#34;:220000,&#34;display_regular_price&#34;:220000,&#34;image&#34;:{&#34;title&#34;:&#34;hd65-ao-hoodie-phan-quang-dougulong (10)&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&#34;,&#34;sizes&#34;:&#34;(max-width: 700px) 100vw, 700px&#34;,&#34;full_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;thumb_src_w&#34;:800,&#34;thumb_src_h&#34;:800,&#34;src_w&#34;:700,&#34;src_h&#34;:700},&#34;image_id&#34;:37504,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:false,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#34;,&#34;sku&#34;:&#34;HD65-X-T&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:37358,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;0.490&#34;,&#34;weight_html&#34;:&#34;0.490 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_size&#34;:&#34;XL&#34;,&#34;attribute_mau&#34;:&#34;XANH \u0110\u00c1&#34;},&#34;availability_html&#34;:&#34;&#60;p class=\&#34;stock out-of-stock\&#34;&#62;H\u1ebft h\u00e0ng&#60;\/p&#62;\n&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;&#34;,&#34;width&#34;:&#34;&#34;,&#34;height&#34;:&#34;&#34;},&#34;dimensions_html&#34;:&#34;N\/A&#34;,&#34;display_price&#34;:220000,&#34;display_regular_price&#34;:220000,&#34;image&#34;:{&#34;title&#34;:&#34;hd65-ao-hoodie-phan-quang-dougulong (10)&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&#34;,&#34;sizes&#34;:&#34;(max-width: 700px) 100vw, 700px&#34;,&#34;full_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&#34;,&#34;thumb_src_w&#34;:800,&#34;thumb_src_h&#34;:800,&#34;src_w&#34;:700,&#34;src_h&#34;:700},&#34;image_id&#34;:37504,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:false,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#34;,&#34;sku&#34;:&#34;HD65-X-X&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:37359,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;0.490&#34;,&#34;weight_html&#34;:&#34;0.490 kg&#34;}]"></form>]]></description>
-										<content:encoded><![CDATA[<p><span class="size-mausac">* Vui lòng chọn SIZE &amp; MÀU SẮC</span></p>
-<form class="variations_form cart" style="box-sizing: border-box; letter-spacing: -0.2px; margin-bottom: 1.3em; color: #000000; font-family: 'Roboto Condensed'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" action="https://bumshop.com.vn/sp/hd65-phan-quang-bangouluo/" enctype="multipart/form-data" method="post" data-product_id="37353" data-product_variations="[{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;L&quot;,&quot;attribute_mau&quot;:&quot;\u0110EN&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock in-stock\&quot;&gt;c\u00f2n 9 h\u00e0ng&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:220000,&quot;display_regular_price&quot;:220000,&quot;image&quot;:{&quot;title&quot;:&quot;hd65-ao-hoodie-phan-quang-dougulong (10)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&quot;,&quot;sizes&quot;:&quot;(max-width: 700px) 100vw, 700px&quot;,&quot;full_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;full_src_w&quot;:800,&quot;full_src_h&quot;:800,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;thumb_src_w&quot;:800,&quot;thumb_src_h&quot;:800,&quot;src_w&quot;:700,&quot;src_h&quot;:700},&quot;image_id&quot;:37504,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:9,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;HD65-L-D&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:37354,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;0.490&quot;,&quot;weight_html&quot;:&quot;0.490 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;L&quot;,&quot;attribute_mau&quot;:&quot;TR\u1eaeNG&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock in-stock\&quot;&gt;c\u00f2n 2 h\u00e0ng&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:220000,&quot;display_regular_price&quot;:220000,&quot;image&quot;:{&quot;title&quot;:&quot;hd65-ao-hoodie-phan-quang-dougulong (10)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&quot;,&quot;sizes&quot;:&quot;(max-width: 700px) 100vw, 700px&quot;,&quot;full_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;full_src_w&quot;:800,&quot;full_src_h&quot;:800,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;thumb_src_w&quot;:800,&quot;thumb_src_h&quot;:800,&quot;src_w&quot;:700,&quot;src_h&quot;:700},&quot;image_id&quot;:37504,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:2,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;HD65-L-T&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:37355,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;0.490&quot;,&quot;weight_html&quot;:&quot;0.490 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;L&quot;,&quot;attribute_mau&quot;:&quot;XANH \u0110\u00c1&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;H\u1ebft h\u00e0ng&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:220000,&quot;display_regular_price&quot;:220000,&quot;image&quot;:{&quot;title&quot;:&quot;hd65-ao-hoodie-phan-quang-dougulong (10)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&quot;,&quot;sizes&quot;:&quot;(max-width: 700px) 100vw, 700px&quot;,&quot;full_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;full_src_w&quot;:800,&quot;full_src_h&quot;:800,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;thumb_src_w&quot;:800,&quot;thumb_src_h&quot;:800,&quot;src_w&quot;:700,&quot;src_h&quot;:700},&quot;image_id&quot;:37504,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;HD65-L-X&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:37356,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;0.490&quot;,&quot;weight_html&quot;:&quot;0.490 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;XL&quot;,&quot;attribute_mau&quot;:&quot;\u0110EN&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;H\u1ebft h\u00e0ng&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:220000,&quot;display_regular_price&quot;:220000,&quot;image&quot;:{&quot;title&quot;:&quot;hd65-ao-hoodie-phan-quang-dougulong (10)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&quot;,&quot;sizes&quot;:&quot;(max-width: 700px) 100vw, 700px&quot;,&quot;full_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;full_src_w&quot;:800,&quot;full_src_h&quot;:800,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;thumb_src_w&quot;:800,&quot;thumb_src_h&quot;:800,&quot;src_w&quot;:700,&quot;src_h&quot;:700},&quot;image_id&quot;:37504,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;HD65-X-D&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:37357,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;0.490&quot;,&quot;weight_html&quot;:&quot;0.490 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;XL&quot;,&quot;attribute_mau&quot;:&quot;TR\u1eaeNG&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;H\u1ebft h\u00e0ng&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:220000,&quot;display_regular_price&quot;:220000,&quot;image&quot;:{&quot;title&quot;:&quot;hd65-ao-hoodie-phan-quang-dougulong (10)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&quot;,&quot;sizes&quot;:&quot;(max-width: 700px) 100vw, 700px&quot;,&quot;full_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;full_src_w&quot;:800,&quot;full_src_h&quot;:800,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;thumb_src_w&quot;:800,&quot;thumb_src_h&quot;:800,&quot;src_w&quot;:700,&quot;src_h&quot;:700},&quot;image_id&quot;:37504,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;HD65-X-T&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:37358,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;0.490&quot;,&quot;weight_html&quot;:&quot;0.490 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;XL&quot;,&quot;attribute_mau&quot;:&quot;XANH \u0110\u00c1&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;H\u1ebft h\u00e0ng&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:220000,&quot;display_regular_price&quot;:220000,&quot;image&quot;:{&quot;title&quot;:&quot;hd65-ao-hoodie-phan-quang-dougulong (10)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-700x700.jpg 700w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-280x280.jpg 280w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-400x400.jpg 400w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-768x768.jpg 768w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg 800w, https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg 100w&quot;,&quot;sizes&quot;:&quot;(max-width: 700px) 100vw, 700px&quot;,&quot;full_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;full_src_w&quot;:800,&quot;full_src_h&quot;:800,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/bumshop.com.vn\/wp-content\/uploads\/2021\/01\/hd65-ao-hoodie-phan-quang-dougulong-10.jpg&quot;,&quot;thumb_src_w&quot;:800,&quot;thumb_src_h&quot;:800,&quot;src_w&quot;:700,&quot;src_h&quot;:700},&quot;image_id&quot;:37504,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;HD65-X-X&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:37359,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;0.490&quot;,&quot;weight_html&quot;:&quot;0.490 kg&quot;}]"></form>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd65-phan-quang-bangouluo/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>HD70 – Áo Hoodie Phản Quang Gấu 2 Mặt</title>
-		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd70-ao-hoodie-phan-quang-gau-2-mat/</link>
-					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd70-ao-hoodie-phan-quang-gau-2-mat/#respond</comments>
-		
-		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
-		<pubDate>Mon, 21 Jun 2021 08:52:42 +0000</pubDate>
-				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=434</guid>
+		<pubDate>Thu, 01 Jul 2021 02:38:21 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=681</guid>
 
 					<description><![CDATA[* Vui lòng chọn SIZE &#38; MÀU SẮC]]></description>
 										<content:encoded><![CDATA[<p>* Vui lòng chọn SIZE &amp; MÀU SẮC</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd70-ao-hoodie-phan-quang-gau-2-mat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd64-phan-quang-unicorn/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>HD72 – Hoodie Cúc Trái Đất</title>
-		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd72-hoodie-cuc-trai-dat/</link>
-					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd72-hoodie-cuc-trai-dat/#respond</comments>
+		<title>HD67 – Áo Hoodie Phản Quang Mặt Cười</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd67-ao-hoodie-phan-quang-mat-cuoi/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd67-ao-hoodie-phan-quang-mat-cuoi/#respond</comments>
 		
 		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
-		<pubDate>Mon, 21 Jun 2021 08:46:33 +0000</pubDate>
-				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=421</guid>
+		<pubDate>Thu, 01 Jul 2021 02:31:01 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=670</guid>
 
 					<description><![CDATA[* Vui lòng chọn SIZE &#38; MÀU SẮC]]></description>
 										<content:encoded><![CDATA[<p>* Vui lòng chọn SIZE &amp; MÀU SẮC</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd72-hoodie-cuc-trai-dat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd67-ao-hoodie-phan-quang-mat-cuoi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>QD03 – Quần Jogger Dù tím</title>
-		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qd03-quan-jogger-du-tim/</link>
-					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qd03-quan-jogger-du-tim/#respond</comments>
+		<title>HD68 – Hoodie Siêu Anh Hùng</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd68-hoodie-sieu-anh-hung/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd68-hoodie-sieu-anh-hung/#respond</comments>
 		
 		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
-		<pubDate>Mon, 21 Jun 2021 08:36:16 +0000</pubDate>
-				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=413</guid>
+		<pubDate>Thu, 01 Jul 2021 02:27:34 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=655</guid>
 
 					<description><![CDATA[* Vui lòng chọn SIZE &#38; MÀU SẮC]]></description>
 										<content:encoded><![CDATA[<p>* Vui lòng chọn SIZE &amp; MÀU SẮC</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qd03-quan-jogger-du-tim/feed/</wfw:commentRss>
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd68-hoodie-sieu-anh-hung/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Quần Jogger Thun Nữ – QT037</title>
-		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-thun-nu-qt037/</link>
-					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-thun-nu-qt037/#respond</comments>
+		<title>Quần jogger kaki túi hộp – QKT01</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-kaki-tui-hop-qkt01/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-kaki-tui-hop-qkt01/#respond</comments>
 		
 		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
-		<pubDate>Mon, 21 Jun 2021 08:26:14 +0000</pubDate>
-				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=404</guid>
+		<pubDate>Thu, 01 Jul 2021 02:24:45 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=645</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-thun-nu-qt037/feed/</wfw:commentRss>
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-kaki-tui-hop-qkt01/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>QT065 – Quần Jogger Thun Sọc Caro</title>
-		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qt065-quan-jogger-thun-soc-caro/</link>
-					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qt065-quan-jogger-thun-soc-caro/#respond</comments>
+		<title>Quần Jogger Thun Nam – QT024</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-thun-nam-qt024/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-thun-nam-qt024/#respond</comments>
 		
 		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
-		<pubDate>Mon, 21 Jun 2021 08:16:48 +0000</pubDate>
-				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=395</guid>
+		<pubDate>Thu, 01 Jul 2021 02:22:14 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=637</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qt065-quan-jogger-thun-soc-caro/feed/</wfw:commentRss>
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-thun-nam-qt024/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>TTL792 – Áo Cậu Bé Gorgeous</title>
-		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl792-ao-cau-be-gorgeous/</link>
-					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl792-ao-cau-be-gorgeous/#respond</comments>
+		<title>Quần Jogger Kaki Nam – Xám Trắng</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-kaki-nam-xam-trang/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-kaki-nam-xam-trang/#respond</comments>
 		
 		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
-		<pubDate>Mon, 21 Jun 2021 02:51:02 +0000</pubDate>
-				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=387</guid>
+		<pubDate>Thu, 01 Jul 2021 02:19:26 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=629</guid>
 
-					<description><![CDATA[<ul>
- 	<li class="bullet-star">Chất thun cotton <strong>MỀM MỊN MÁT</strong></li>
- 	<li class="bullet-star">Form rộng <strong>unisex</strong> dưới <strong>75kg</strong></li>
- 	<li class="bullet-star">Được <strong>kiểm hàng</strong> trước khi nhận</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<ul>
-<li class="bullet-star">Chất thun cotton <strong>MỀM MỊN MÁT</strong></li>
-<li class="bullet-star">Form rộng <strong>unisex</strong> dưới <strong>75kg</strong></li>
-<li class="bullet-star">Được <strong>kiểm hàng</strong> trước khi nhận</li>
-</ul>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl792-ao-cau-be-gorgeous/feed/</wfw:commentRss>
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-kaki-nam-xam-trang/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>TTL235 -ÁO WOODYS</title>
-		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl235-ao-woodys/</link>
-					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl235-ao-woodys/#respond</comments>
+		<title>Quần jogger thun Nam – QT028</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-thun-nam-qt028/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-thun-nam-qt028/#respond</comments>
 		
 		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
-		<pubDate>Mon, 21 Jun 2021 02:30:37 +0000</pubDate>
-				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=380</guid>
+		<pubDate>Thu, 01 Jul 2021 02:17:43 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=621</guid>
 
-					<description><![CDATA[<ul>
- 	<li class="bullet-star">Chất thun cotton <strong>MỀM MỊN MÁT</strong></li>
- 	<li class="bullet-star">Form rộng <strong>unisex</strong> dưới <strong>75kg</strong></li>
- 	<li class="bullet-star">Được <strong>kiểm hàng</strong> trước khi nhận</li>
- 	<li class="bullet-star">Cập nhật MẪU MỚI tại<strong> instagram </strong>Bum Shop &#62;&#62; <strong><a class="customize-unpreviewable" href="http://bit.ly/instabumshop" target="_blank" rel="nofollow noopener sponsored noreferrer">http://bit.ly/instabumshop</a></strong></li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<ul>
-<li class="bullet-star">Chất thun cotton <strong>MỀM MỊN MÁT</strong></li>
-<li class="bullet-star">Form rộng <strong>unisex</strong> dưới <strong>75kg</strong></li>
-<li class="bullet-star">Được <strong>kiểm hàng</strong> trước khi nhận</li>
-<li class="bullet-star">Cập nhật MẪU MỚI tại<strong> instagram </strong>Bum Shop &gt;&gt; <strong><a class="customize-unpreviewable" href="http://bit.ly/instabumshop" target="_blank" rel="nofollow noopener sponsored noreferrer">http://bit.ly/instabumshop</a></strong></li>
-</ul>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl235-ao-woodys/feed/</wfw:commentRss>
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/quan-jogger-thun-nam-qt028/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>TTL781 – Áo Croptop Hộp Kẹo</title>
-		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl781-ao-croptop-hop-keo/</link>
-					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl781-ao-croptop-hop-keo/#respond</comments>
+		<title>QT047 – Quần Jogger Thun</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qt047-quan-jogger-thun/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qt047-quan-jogger-thun/#respond</comments>
 		
 		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
-		<pubDate>Mon, 21 Jun 2021 02:22:38 +0000</pubDate>
-				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=370</guid>
+		<pubDate>Thu, 01 Jul 2021 02:15:27 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=613</guid>
 
-					<description><![CDATA[<ul>
- 	<li class="bullet-star">Chất thun cotton <strong>MỀM MỊN MÁT</strong></li>
- 	<li class="bullet-star">Form rộng <strong>unisex</strong> dưới <strong>75kg</strong></li>
- 	<li class="bullet-star">Được <strong>kiểm hàng</strong> trước khi nhận</li>
- 	<li class="bullet-star">Cập nhật MẪU MỚI tại<strong> instagram </strong>Bum Shop &#62;&#62; <strong><a class="customize-unpreviewable" href="http://bit.ly/instabumshop" target="_blank" rel="nofollow noopener sponsored noreferrer">http://bit.ly/instabumshop</a></strong></li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<ul>
-<li class="bullet-star">Chất thun cotton <strong>MỀM MỊN MÁT</strong></li>
-<li class="bullet-star">Form rộng <strong>unisex</strong> dưới <strong>75kg</strong></li>
-<li class="bullet-star">Được <strong>kiểm hàng</strong> trước khi nhận</li>
-<li class="bullet-star">Cập nhật MẪU MỚI tại<strong> instagram </strong>Bum Shop &gt;&gt; <strong><a class="customize-unpreviewable" href="http://bit.ly/instabumshop" target="_blank" rel="nofollow noopener sponsored noreferrer">http://bit.ly/instabumshop</a></strong></li>
-</ul>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl781-ao-croptop-hop-keo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qt047-quan-jogger-thun/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>TTL824 – Khủng Long Rawr</title>
-		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl824-khung-long-rawr/</link>
-					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl824-khung-long-rawr/#respond</comments>
+		<title>QKT012 – Quần Jogger Túi Hộp Trắng Kem</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qkt012-quan-jogger-tui-hop-trang-kem/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qkt012-quan-jogger-tui-hop-trang-kem/#respond</comments>
 		
 		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 08:49:42 +0000</pubDate>
-				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=357</guid>
+		<pubDate>Thu, 01 Jul 2021 02:11:52 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=604</guid>
 
-					<description><![CDATA[<ul>
- 	<li class="bullet-star">Chất thun cotton <strong>MỀM MỊN MÁT</strong></li>
- 	<li class="bullet-star">Form rộng <strong>unisex</strong> dưới <strong>75kg</strong></li>
- 	<li class="bullet-star">Được <strong>kiểm hàng</strong> trước khi nhận</li>
- 	<li class="bullet-star">Cập nhật MẪU MỚI tại<strong> instagram </strong>Thing Nguyễn &#62;&#62; <strong><a href="http://bit.ly/instabumshop" target="_blank" rel="nofollow noopener sponsored noreferrer">http://bit.ly/instabumshop</a></strong></li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<ul>
-<li class="bullet-star">Chất thun cotton <strong>MỀM MỊN MÁT</strong></li>
-<li class="bullet-star">Form rộng <strong>unisex</strong> dưới <strong>75kg</strong></li>
-<li class="bullet-star">Được <strong>kiểm hàng</strong> trước khi nhận</li>
-<li class="bullet-star">Cập nhật MẪU MỚI tại<strong> instagram </strong>Thing Nguyễn &gt;&gt; <strong><a href="http://bit.ly/instabumshop" target="_blank" rel="nofollow noopener sponsored noreferrer">http://bit.ly/instabumshop</a></strong></li>
-</ul>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/ttl824-khung-long-rawr/feed/</wfw:commentRss>
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qkt012-quan-jogger-tui-hop-trang-kem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>QT071 – Quần Jogger Thun Caro Xanh</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qt071-quan-jogger-thun-caro-xanh/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qt071-quan-jogger-thun-caro-xanh/#respond</comments>
+		
+		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 02:08:25 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=594</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/qt071-quan-jogger-thun-caro-xanh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

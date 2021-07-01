@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/ao-hoodie/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thinhnguyen-van.github.io/thinh-demo</link>
 	<description>Hello SungTia</description>
-	<lastBuildDate>Mon, 21 Jun 2021 09:05:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jul 2021 02:41:39 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,60 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>HD64 – Phản Quang Unicorn</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd64-phan-quang-unicorn/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd64-phan-quang-unicorn/#respond</comments>
+		
+		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 02:38:21 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=681</guid>
+
+					<description><![CDATA[* Vui lòng chọn SIZE &#38; MÀU SẮC]]></description>
+										<content:encoded><![CDATA[<p>* Vui lòng chọn SIZE &amp; MÀU SẮC</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd64-phan-quang-unicorn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HD67 – Áo Hoodie Phản Quang Mặt Cười</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd67-ao-hoodie-phan-quang-mat-cuoi/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd67-ao-hoodie-phan-quang-mat-cuoi/#respond</comments>
+		
+		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 02:31:01 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=670</guid>
+
+					<description><![CDATA[* Vui lòng chọn SIZE &#38; MÀU SẮC]]></description>
+										<content:encoded><![CDATA[<p>* Vui lòng chọn SIZE &amp; MÀU SẮC</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd67-ao-hoodie-phan-quang-mat-cuoi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HD68 – Hoodie Siêu Anh Hùng</title>
+		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd68-hoodie-sieu-anh-hung/</link>
+					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd68-hoodie-sieu-anh-hung/#respond</comments>
+		
+		<dc:creator><![CDATA[ThinhNguyen]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 02:27:34 +0000</pubDate>
+				<guid isPermaLink="false">https://thinhnguyen-van.github.io/thinh-demo/?post_type=product&#038;p=655</guid>
+
+					<description><![CDATA[* Vui lòng chọn SIZE &#38; MÀU SẮC]]></description>
+										<content:encoded><![CDATA[<p>* Vui lòng chọn SIZE &amp; MÀU SẮC</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd68-hoodie-sieu-anh-hung/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>HD65 – Phản Quang Bangouluo</title>
 		<link>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd65-phan-quang-bangouluo/</link>
 					<comments>https://thinhnguyen-van.github.io/thinh-demo/sanpham/hd65-phan-quang-bangouluo/#respond</comments>
